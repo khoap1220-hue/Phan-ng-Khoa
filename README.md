@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-**AI Design Visionary** is an interactive design engineering workbench that bridges the gap between raw product ideas and polished frontend interfaces. By combining multimodal visual analysis with structured design-token generation, it analyzes user-uploaded sketches or screenshots, diagnoses UX bottlenecks, and synthesizes high-contrast, accessible UI concepts.
+**AI Design Visionary** is an open-source design engineering workbench that bridges the gap between raw product ideas and polished frontend interfaces. By combining multimodal visual analysis with structured design-token generation, it analyzes user-uploaded sketches or screenshots, diagnoses UX bottlenecks, and synthesizes high-contrast, accessible UI concepts.
 
 ### ✨ Key Capabilities
 
